@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>name</key>
+        <string>Admiral Ackbar</string>
+        <key>group</key>
+        <string>A</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Anakin Skywalker</string>
+        <key>group</key>
+        <string>A</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Bib Fortuna</string>
+        <key>group</key>
+        <string>B</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Bobba Fett</string>
+        <key>group</key>
+        <string>B</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>C-3PO</string>
+        <key>group</key>
+        <string>C</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Cad Bane</string>
+        <key>group</key>
+        <string>C</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Chewbacca</string>
+        <key>group</key>
+        <string>C</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Clone Trooper</string>
+        <key>group</key>
+        <string>C</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Commander Cody</string>
+        <key>group</key>
+        <string>C</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Count Dooku</string>
+        <key>group</key>
+        <string>C</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Darth Bane</string>
+        <key>group</key>
+        <string>D</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Darth Maul</string>
+        <key>group</key>
+        <string>D</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Darth Sidious</string>
+        <key>group</key>
+        <string>D</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Darth Tyranus</string>
+        <key>group</key>
+        <string>D</string>
+    </dict>
+	<dict>
+		<key>name</key>
+		<string>Darth Vader</string>
+		<key>group</key>
+		<string>D</string>
+	</dict>
+    <dict>
+        <key>name</key>
+        <string>Greedo</string>
+        <key>group</key>
+        <string>G</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Han Solo</string>
+        <key>group</key>
+        <string>H</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Jabba the Hutt</string>
+        <key>group</key>
+        <string>J</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Jar Jar Binks</string>
+        <key>group</key>
+        <string>J</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Jengo Fett</string>
+        <key>group</key>
+        <string>J</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Luke Skywalker</string>
+        <key>group</key>
+        <string>L</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Obi-Wan Kenobi</string>
+        <key>group</key>
+        <string>O</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Princess Leia</string>
+        <key>group</key>
+        <string>P</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Qui-Gon Jinn</string>
+        <key>group</key>
+        <string>Q</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>R2-D2</string>
+        <key>group</key>
+        <string>R</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Stormtrooper</string>
+        <key>group</key>
+        <string>S</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Wicket</string>
+        <key>group</key>
+        <string>W</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Yoda</string>
+        <key>group</key>
+        <string>Y</string>
+    </dict>
+</array>
+</plist>
