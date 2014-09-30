@@ -13,7 +13,7 @@ Resembling the __user interface__ of the Contacts app, the provided sample code 
 * Finally, the __iOS 8 UISearchController__ is used to present a __Search Bar__ that allows the user to __search__ and __filter__ the items presented in the UITableView.
 	
 Wait, wuh? Here are some screen shots ...
-![screenshot](https://s3-us-west-1.amazonaws.com/app-static-assets/images/filtertable.png)
+![screenshot](imgs/filtertable.png)
 
 ####Language
 Objective-C
