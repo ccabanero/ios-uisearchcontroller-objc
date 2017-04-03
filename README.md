@@ -1,7 +1,7 @@
 ios-uisearchcontroller
 ======================
 
-####Description
+#### Description
 
 With __iOS 8__, UISearchDisplayController is now __deprecated__.  This repo provides sample code for one way to approach searching/filtering a sectioned UITableView using the new __UISearchController__ introduced with __iOS 8__.
 
@@ -15,15 +15,15 @@ Resembling the __user interface__ of the Contacts app, the provided sample code 
 Wait, wuh? Here are some screen shots ...
 ![screenshot](imgs/filtertable.png)
 
-####Language
+#### Language
 Objective-C
 
-####User Interface Idiom
+#### User Interface Idiom
 This version of the solution uses Storyboards to layout the view hierarchy.
 
-####Unit Testing Framework
+#### Unit Testing Framework
 Unit tests are provided to demonstrate ways to assert behavior and state of Model classes and Controller classes in this sample.  Uses the XCTest.framework.
 
-####Contact
+#### Contact
 * Twitter: [@clintcabanero](http://twitter.com/clintcabanero)
 * GitHub: [ccabanero](http:///github.com/ccabanero)
